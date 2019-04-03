@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "802684514714",
+    "firebase_url": "https://documentmanager-d9b6d.firebaseio.com",
+    "project_id": "documentmanager-d9b6d",
+    "storage_bucket": "documentmanager-d9b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802684514714:android:a018ad3965fb4084",
+        "android_client_info": {
+          "package_name": "com.example.doss.documentmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802684514714-r6kdumb6ae74r39gve1sbqm9gkqjmdv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doss.documentmanager",
+            "certificate_hash": "18ffe8418017cedcc7c6bcb1f81cd89ade3b4eed"
+          }
+        },
+        {
+          "client_id": "802684514714-bfl42v656jg23iut35cnn5q15fjqdq1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU2ZAl03disDDku_7BHlpgj_XwbVL2QJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802684514714-bfl42v656jg23iut35cnn5q15fjqdq1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
